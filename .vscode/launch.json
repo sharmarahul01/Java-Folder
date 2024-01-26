@@ -1,0 +1,91 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "add",
+            "request": "launch",
+            "mainClass": "add",
+            "projectName": "Java Folder_31594b3b"
+        },
+        {
+            "type": "java",
+            "name": "Package2Class",
+            "request": "launch",
+            "mainClass": "Package2Class",
+            "projectName": "Java Folder_31594b3b"
+        },
+        {
+            "type": "java",
+            "name": "LoginWindow",
+            "request": "launch",
+            "mainClass": "LoginWindow",
+            "projectName": "Java Folder_31594b3b"
+        },
+        {
+            "type": "java",
+            "name": "prob_8",
+            "request": "launch",
+            "mainClass": "prob_8",
+            "projectName": "Java Folder_31594b3b"
+        },
+        {
+            "type": "java",
+            "name": "flo",
+            "request": "launch",
+            "mainClass": "flo",
+            "projectName": "Java Folder_31594b3b"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "prob",
+            "request": "launch",
+            "mainClass": "prob",
+            "projectName": "Java Folder_31594b3b"
+        },
+        {
+            "type": "java",
+            "name": "prob_1",
+            "request": "launch",
+            "mainClass": "prob_1",
+            "projectName": "Java Folder_31594b3b"
+        },
+        {
+            "type": "java",
+            "name": "prob_2",
+            "request": "launch",
+            "mainClass": "prob_2",
+            "projectName": "Java Folder_31594b3b"
+        },
+        {
+            "type": "java",
+            "name": "prob_3",
+            "request": "launch",
+            "mainClass": "prob_3",
+            "projectName": "Java Folder_31594b3b"
+        },
+        {
+            "type": "java",
+            "name": "prob_4",
+            "request": "launch",
+            "mainClass": "prob_4",
+            "projectName": "Java Folder_31594b3b"
+        },
+        {
+            "type": "java",
+            "name": "prob_5",
+            "request": "launch",
+            "mainClass": "prob_5",
+            "projectName": "Java Folder_31594b3b"
+        }
+    ]
+}
